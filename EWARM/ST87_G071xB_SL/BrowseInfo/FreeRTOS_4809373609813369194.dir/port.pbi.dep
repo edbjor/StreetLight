@@ -1,0 +1,22 @@
+C:\0_Work\NBIOT\myFW\ST87_G071_SL_V007\EWARM\ST87_G071xB_SL\BrowseInfo\FreeRTOS_4809373609813369194.dir\port.pbi: \
+  C:\0_Work\NBIOT\myFW\ST87_G071_SL_V007\Middlewares\Third_Party\FreeRTOS\Source\portable\IAR\ARM_CM0\port.c \
+  C:\iar\ewarm-9.60.2\arm\inc\c\aarch32\intrinsics.h \
+  C:\iar\ewarm-9.60.2\arm\inc\c\aarch32\iccarm_builtin.h \
+  C:\iar\ewarm-9.60.2\arm\inc\c\yvals.h \
+  C:\iar\ewarm-9.60.2\arm\inc\c\DLib_Defaults.h \
+  C:\iar\ewarm-9.60.2\arm\inc\c\DLib_Config_Full.h \
+  C:\iar\ewarm-9.60.2\arm\inc\c\DLib_Product.h \
+  C:\iar\ewarm-9.60.2\arm\inc\c\aarch32\iar_intrinsics_common.h \
+  C:\0_Work\NBIOT\myFW\ST87_G071_SL_V007\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h \
+  C:\iar\ewarm-9.60.2\arm\inc\c\stddef.h \
+  C:\iar\ewarm-9.60.2\arm\inc\c\ycheck.h \
+  C:\iar\ewarm-9.60.2\arm\inc\c\ysizet.h \
+  C:\iar\ewarm-9.60.2\arm\inc\c\stdint.h \
+  C:\0_Work\NBIOT\myFW\ST87_G071_SL_V007\EWARM\..\Core\Inc\FreeRTOSConfig.h \
+  C:\0_Work\NBIOT\myFW\ST87_G071_SL_V007\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h \
+  C:\0_Work\NBIOT\myFW\ST87_G071_SL_V007\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h \
+  C:\0_Work\NBIOT\myFW\ST87_G071_SL_V007\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\deprecated_definitions.h \
+  C:\0_Work\NBIOT\myFW\ST87_G071_SL_V007\Middlewares\Third_Party\FreeRTOS\Source\portable\IAR\ARM_CM0\portmacro.h \
+  C:\0_Work\NBIOT\myFW\ST87_G071_SL_V007\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h \
+  C:\0_Work\NBIOT\myFW\ST87_G071_SL_V007\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h \
+  C:\0_Work\NBIOT\myFW\ST87_G071_SL_V007\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h
